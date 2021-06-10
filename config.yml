@@ -1,0 +1,17 @@
+#Used as a prefix for bank commands, chat messages, and on ATM signs.
+bank-name-formatting: '&3&lSMPBank'
+
+#The plain text name of the bank used.
+bank-name: SMPBank
+
+#Require making an ATM to use the permission node 'smpbank.create-sign'
+atm-sign-requires-permission: false
+
+#The starting balance of new players.
+starting-balance: 0
+
+#Enable exchange of diamonds in GUI
+diamond-exchange: true
+
+#Price of diamonds compared to value of currency
+diamond-price: 200

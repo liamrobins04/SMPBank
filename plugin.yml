@@ -1,0 +1,14 @@
+main: me.MwMxTrx.SMPBank.SMPBank
+name: SMPBank
+version: 0.1
+author: MwMxTrx
+api-version: 1.16
+description: A custom banking plugin designed for SMP servers that uses the physical trade of bank notes, rather than use of commands.
+commands:
+  bank:
+    description: Access commands for SMPBank.
+    usage: /bank
+  smpbank:
+    description: Access commands for SMPBank.
+    usage: /smpbank
+  
